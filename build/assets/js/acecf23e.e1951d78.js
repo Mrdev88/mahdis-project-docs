@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmahdis_project_docs=self.webpackChunkmahdis_project_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/https://mahdis-project-docs.vercel.app/blog","blogTitle":"Blog","authorsListPath":"/https://mahdis-project-docs.vercel.app/blog/authors"}')}}]);
